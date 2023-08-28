@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I own a cat named Milo 🐱**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
