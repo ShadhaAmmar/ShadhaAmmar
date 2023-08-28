@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shadha Ammar</h1>
 <h3 align="center">I’m a computer science student from Tunisia</h3>
 
-- 🔭 I’m currently working on **a website using html, css, js and php**
+- 🔭 I’m currently working on **a website using html, css, js and php**  
 
 - 📫 How to reach me **shadhammar2002@gmail.com**
 
-- ⚡ Fun fact **I own a cat named Milo 🐱**
+- 🐱 Fun fact **I own a cat named Milo **
 
 <p align="left">
 </p>
