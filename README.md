@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **shadhammar2002@gmail.com**
 
-- 🐱 Fun fact **I own a cat named Milo **
 
 <p align="left">
 </p>
